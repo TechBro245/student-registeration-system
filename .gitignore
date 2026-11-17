@@ -1,0 +1,5 @@
+venv_test/
+__pycache__/
+*.pyc
+instance/*.db
+.env
